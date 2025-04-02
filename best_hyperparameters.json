@@ -1,0 +1,16 @@
+{
+    "best_params": {
+        "hidden_size": 256,
+        "num_layers": 4,
+        "dropout": 0.24547619140839227,
+        "batch_size": 32,
+        "learning_rate": 0.0003345522177503116,
+        "focal_gamma": 3.3709896152295458,
+        "temperature": 2.3774866674463504,
+        "weight_decay": 0.048351324370537664,
+        "max_norm": 0.9970966580791061,
+        "scheduler_factor": 0.44295720436939146,
+        "scheduler_patience": 5
+    },
+    "best_uar": 0.49138750799092357
+}
